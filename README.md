@@ -2,7 +2,7 @@
 
 ## 1º Ano (2023/2024)
 
-**FP** *(Fundamentos da programação)*
+**FP** *(Fundamentos da Programação)*
 
 <a href="https://github.com/filipeoliveira05/ist-projeto-FP-1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=filipeoliveira05&theme=midnight-purple&hide_border=true&repo=ist-projeto-FP-1" />
@@ -15,7 +15,7 @@
 <br>
 <br>
 
-**LP** *(Lógica para programação)*
+**LP** *(Lógica para Programação)*
 
 <a href="https://github.com/filipeoliveira05/ist-projeto-LP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=filipeoliveira05&theme=midnight-purple&hide_border=true&repo=ist-projeto-LP" />
@@ -41,7 +41,7 @@
 
 ## 2º Ano (2024/2025)
 
-**PO** *(Programação com objetos)*
+**PO** *(Programação com Objetos)*
 
 <a href="https://github.com/filipeoliveira05/ist-projeto-PO">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=filipeoliveira05&theme=midnight-purple&hide_border=true&repo=ist-projeto-PO" />
