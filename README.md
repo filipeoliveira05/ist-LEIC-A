@@ -76,3 +76,16 @@
 <a href="https://github.com/filipeoliveira05/ist-projeto-ASA-3">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=filipeoliveira05&theme=midnight-purple&hide_border=true&repo=ist-projeto-ASA-3" />
 </a>
+
+<br>
+<br>
+
+**IPM** *(Interação Pessoa-Máquina)*
+
+<a href="https://github.com/filipeoliveira05/ist-projeto-IPM-1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=filipeoliveira05&theme=midnight-purple&hide_border=true&repo=ist-projeto-IPM-1" />
+</a>
+
+<a href="https://github.com/filipeoliveira05/ist-projeto-IPM-2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=filipeoliveira05&theme=midnight-purple&hide_border=true&repo=ist-projeto-IPM-2" />
+</a>
