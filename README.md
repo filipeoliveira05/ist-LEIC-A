@@ -89,3 +89,12 @@
 <a href="https://github.com/filipeoliveira05/ist-projeto-IPM-2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=filipeoliveira05&theme=midnight-purple&hide_border=true&repo=ist-projeto-IPM-2" />
 </a>
+
+<br>
+<br>
+
+**IA** *(Inteligência Artificial)*
+
+<a href="https://github.com/filipeoliveira05/ist-projeto-IA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=filipeoliveira05&theme=midnight-purple&hide_border=true&repo=ist-projeto-IA" />
+</a>
