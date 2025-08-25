@@ -98,3 +98,16 @@
 <a href="https://github.com/filipeoliveira05/ist-projeto-IA">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=filipeoliveira05&theme=midnight-purple&hide_border=true&repo=ist-projeto-IA" />
 </a>
+
+<br>
+<br>
+
+**BD** *(Base de Dados)*
+
+<a href="https://github.com/filipeoliveira05/ist-projeto-BD-1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=filipeoliveira05&theme=midnight-purple&hide_border=true&repo=ist-projeto-BD-1" />
+</a>
+
+<a href="https://github.com/filipeoliveira05/ist-projeto-BD-2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=filipeoliveira05&theme=midnight-purple&hide_border=true&repo=ist-projeto-BD-2" />
+</a>
