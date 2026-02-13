@@ -111,3 +111,28 @@
 <a href="https://github.com/filipeoliveira05/ist-projeto-BD-2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=filipeoliveira05&theme=midnight-purple&hide_border=true&repo=ist-projeto-BD-2" />
 </a>
+
+## 3º Ano (2025/2026)
+
+**OC** *(Organização de Computadores)*
+
+<a href="https://github.com/filipeoliveira05/ist-projeto-OC-1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=filipeoliveira05&theme=midnight-purple&hide_border=true&repo=ist-projeto-OC-1" />
+</a>
+
+<a href="https://github.com/filipeoliveira05/ist-projeto-OC-2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=filipeoliveira05&theme=midnight-purple&hide_border=true&repo=ist-projeto-OC-2" />
+</a>
+
+<a href="https://github.com/filipeoliveira05/ist-projeto-OC-3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=filipeoliveira05&theme=midnight-purple&hide_border=true&repo=ist-projeto-OC-3" />
+</a>
+
+<br>
+<br>
+
+**RC** *(Redes de Computadores)*
+
+<a href="https://github.com/filipeoliveira05/ist-projeto-RC">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=filipeoliveira05&theme=midnight-purple&hide_border=true&repo=ist-projeto-RC" />
+</a>
