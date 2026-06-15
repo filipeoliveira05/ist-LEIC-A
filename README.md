@@ -136,3 +136,39 @@
 <a href="https://github.com/filipeoliveira05/ist-projeto-RC">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=filipeoliveira05&theme=midnight-purple&hide_border=true&repo=ist-projeto-RC" />
 </a>
+
+<br>
+<br>
+
+**SD** *(Sistemas Distribuídos)*
+
+<a href="https://github.com/filipeoliveira05/ist-projeto-SD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=filipeoliveira05&theme=midnight-purple&hide_border=true&repo=ist-projeto-SD" />
+</a>
+
+<br>
+<br>
+
+**ES** *(Engenharia de Software)*
+
+<a href="https://github.com/filipeoliveira05/ist-projeto-ES">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=filipeoliveira05&theme=midnight-purple&hide_border=true&repo=ist-projeto-ES" />
+</a>
+
+<br>
+<br>
+
+**Comp** *(Compiladores)*
+
+<a href="https://github.com/filipeoliveira05/ist-projeto-Comp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=filipeoliveira05&theme=midnight-purple&hide_border=true&repo=ist-projeto-Comp" />
+</a>
+
+<br>
+<br>
+
+**CG** *(Computação Gráfica)*
+
+<a href="https://github.com/filipeoliveira05/ist-projeto-CG">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=filipeoliveira05&theme=midnight-purple&hide_border=true&repo=ist-projeto-CG" />
+</a>
